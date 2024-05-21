@@ -8,3 +8,8 @@
 ![Question 1](img/question1.png)
 ![Question 2](img/question2.png)
 ![Question 3](img/question3.png)
+
+# **`Task 4`**: Display Animations for Correct and Incorrect Answers
+![Correct Animate](img/correct.png)
+![Incorrect](/img/incorrect.png)
+
