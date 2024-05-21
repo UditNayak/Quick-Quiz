@@ -22,3 +22,6 @@
 ![Progress 1](img/progress1.png)
 ![Progress 2](img/progress2.png)
 ![Progress 3](img/progress3.png)
+
+# **`Task 7`**: Create and Style the End Page
+![End Page](img/end.png)
