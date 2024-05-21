@@ -30,6 +30,7 @@ h2{
     align-items: center;
     max-width: 80rem;
     margin: 0 auto;
+    padding: 0 2rem;
 }
 
 /* All the children of container will get 100% with so that positioning became better */
