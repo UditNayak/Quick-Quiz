@@ -17,3 +17,8 @@
 ![hud 1](img/hud1.png)
 ![hud 2](img/hud2.png)
 ![hud 3](img/hud3.png)
+
+# **`Task 6`**: Create a Progress Bar
+![Progress 1](img/progress1.png)
+![Progress 2](img/progress2.png)
+![Progress 3](img/progress3.png)
